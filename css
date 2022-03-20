@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+header{
+height: 100px;
+background: yellow;
+margin-top:-21px;
+margin-left:-21px;
+margin-right:-21px;
+margin-bottom:-21px;
+}
+img{
+height: 20px;
+weight: 20px;
+}
+h2{
+    text-align:left;
+
+}
+img{
+height:200px;
+
+} 
+footer{
+    height: 100px;
+    background: yellow;
+}
+
+    
